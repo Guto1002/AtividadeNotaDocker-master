@@ -1,4 +1,5 @@
 # Atividade Pra Nota
 
-- Marcos Martins De Lima
-- Guilherme Macario
+- Gustavo Simões
+- Marcos Vinicius
+- Diego Machado
